@@ -50,7 +50,7 @@
                 <div class="text-1">Hello, my name is</div>
                 <!-- TODO: Insert your name here -->
                 <div class="text-2">Devwrat Tanwar</div>
-                <div class="text-3">And I'm a<span class="typing"> Data Analyst</span></div>
+                <div class="text-3">And I'm a<span class="typing"></span></div>
                 <a href="#contact">Contact me</a>
             </div>
         </div>
