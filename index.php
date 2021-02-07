@@ -54,7 +54,7 @@
                 <div class="text-1">Hello, my name is</div>
                 <!-- TODO: Insert your name here -->
                 <div class="text-2">Devwrat Tanwar</div>
-                <div class="text-3">And I'm a<span class="typing">Data Analyst</span></div>
+                <div class="text-3">And I'm a<span class="typing"> Data Analyst</span></div>
                 <a href="#contact">Contact me</a>
             </div>
         </div>
@@ -67,15 +67,15 @@
             <div class="about-content">
                 <div class="column left">
                     <!-- TODO: replace placeholder profile picture with an image of yourself -->
-                    <img src="img/profile_picture.jpg" alt="">
+                    <img src="DevwratTanwar.jpg" alt="">
                 </div>
                 <div class="column right">
                     <!-- TODO: Insert your name here -->
-                    <div class="text">I'm **** and I'm a<span class="typing-2"></span></div>
+                    <div class="text">I'm Devwrat Tanwar and I'm a<span class="typing-2"> Data Analyst</span></div>
                     <!-- TODO: Insert an introduction of yourself and your work here -->
                     <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam debitis distinctio dicta temporibus voluptates quae doloribus harum qui, officia sit et minus aliquam libero, quisquam numquam? Id unde velit nihil.
                     </p>
-                    <a href="#">Download CV</a>
+                    <a href="#">Download Resume</a>
                 </div>
             </div>
         </div>
@@ -143,7 +143,7 @@
                     <a class="social-media" id="github" href="" target="_blank" rel="noopener noreferrer">
                         <i class="fab fa-github"></i>
                     </a>
-                    <a class="social-media" id="linkedin" href="" target="_blank" 
+                    <a class="social-media" id="linkedin" href="https://www.linkedin.com/in/devwrattanwar/" target="_blank" 
                     rel="noopener noreferrer">
                         <i class="fab fa-linkedin"></i>
                     </a>
@@ -152,14 +152,14 @@
                         <i class="fab fa-twitter"></i>
                     </a>
                     <!-- TODO: Describe what people should contact you for -->
-                    <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
+                    <p>Contact me for job offers, constructive feedback, questions, or anything you would like to share.</p>
                     <div class="icons">
                         <div class="row">
                             <i class="fas fa-user"></i>
                             <div class="info">
                                 <div class="head">Name</div>
                                 <!-- TODO: Insert your name here -->
-                                <div class="sub-title">****</div>
+                                <div class="sub-title">Devwrat Tanwar</div>
                             </div>
                         </div>
                         <div class="row">
@@ -167,7 +167,7 @@
                             <div class="info">
                                 <div class="head">Address</div>
                                 <!-- TODO: Insert your city or address here -->
-                                <div class="sub-title">****</div>
+                                <div class="sub-title">Champaign, IL</div>
                             </div>
                         </div>
                         <div class="row">
@@ -175,7 +175,7 @@
                             <div class="info">
                                 <div class="head">Email</div>
                                 <!-- TODO: Insert your email address here -->
-                                <div class="sub-title">****</div>
+                                <div class="sub-title">tanwardevwrat24@gmail.com</div>
                             </div>
                         </div>
                     </div>
