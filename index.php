@@ -67,7 +67,7 @@
                 </div>
                 <div class="column right">
                     <!-- TODO: Insert your name here -->
-                    <div class="text">I'm Devwrat Tanwar and I'm a<span class="typing-2"> Data Analyst</span></div>
+                    <div class="text">I'm Devwrat Tanwar and I'm a<span class="typing-2"></span></div>
                     <!-- TODO: Insert an introduction of yourself and your work here -->
                     <p> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam debitis distinctio dicta temporibus voluptates quae doloribus harum qui, officia sit et minus aliquam libero, quisquam numquam? Id unde velit nihil.
                     </p>
