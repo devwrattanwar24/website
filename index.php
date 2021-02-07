@@ -27,10 +27,10 @@
                 <li><a href="#contact" class="menu-btn">Contact</a></li>
                 <li class="menu-btn">
                 <!-- TODO: "Insert links to your social media profiles in all three sections" -->
-                    <a class="social-media" id="github" href="" target="_blank" rel="noopener noreferrer">
+                    <a class="social-media" id="github" href="https://github.com/devwrattanwar24/" target="_blank" rel="noopener noreferrer">
                         <i class="fab fa-github"></i>
                     </a>
-                    <a class="social-media" id="linkedin" href="" target="_blank" 
+                    <a class="social-media" id="linkedin" href="https://www.linkedin.com/in/devwrattanwar/" target="_blank" 
                     rel="noopener noreferrer">
                         <i class="fab fa-linkedin"></i>
                     </a>
@@ -53,8 +53,8 @@
             <div class="home-content">
                 <div class="text-1">Hello, my name is</div>
                 <!-- TODO: Insert your name here -->
-                <div class="text-2">****</div>
-                <div class="text-3">And I'm a<span class="typing"></span></div>
+                <div class="text-2">Devwrat Tanwar</div>
+                <div class="text-3">And I'm a<span class="typing">Data Analyst</span></div>
                 <a href="#contact">Contact me</a>
             </div>
         </div>
