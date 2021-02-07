@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Marius Ebert</title>
+    <title>Devwrat Tanwar</title>
     <link rel="stylesheet" href="style.css">
     <!-- awesome font script integration -->
     <script src="https://kit.fontawesome.com/a076d05399.js"></script>
@@ -33,10 +33,6 @@
                     <a class="social-media" id="linkedin" href="https://www.linkedin.com/in/devwrattanwar/" target="_blank" 
                     rel="noopener noreferrer">
                         <i class="fab fa-linkedin"></i>
-                    </a>
-                    <a class="social-media" id="twitter" href="" target="_blank" 
-                    rel="noopener noreferrer">
-                        <i class="fab fa-twitter"></i>
                     </a>
                 </li>
             </ul>
@@ -140,7 +136,7 @@
                 <div class="column left">
                     <div class="text">Get in touch</div>
                     <!-- TODO: Insert links to social media profiles in all three sections -->
-                    <a class="social-media" id="github" href="" target="_blank" rel="noopener noreferrer">
+                    <a class="social-media" id="github" href="https://github.com/devwrattanwar24/" target="_blank" rel="noopener noreferrer">
                         <i class="fab fa-github"></i>
                     </a>
                     <a class="social-media" id="linkedin" href="https://www.linkedin.com/in/devwrattanwar/" target="_blank" 
@@ -182,7 +178,7 @@
                 </div>
 
                 <div class="column right">
-                    <div class="text">Message me</div>
+                    <div class="text">Message Me</div>
                     <form action="contactform.php" method="POST">
                         <div class="fields">
                             <div class="field name">
